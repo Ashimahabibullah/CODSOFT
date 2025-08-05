@@ -2,7 +2,7 @@ My Web Development Projects
 This repository contains a collection of my web development projects. Each project demonstrates my skills in HTML, CSS, and responsiveness.
 
 Projects
-1.Café Landing Page
+1.Cafe Landing Page
 
 #A responsive landing page for a cozy café, built with HTML and CSS.
 
