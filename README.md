@@ -21,5 +21,5 @@ This is a simple online quiz application built using **HTML**, **CSS**, and **Ja
 - Responsive design  
 
 ##How to Run
-1. Clone the repo:
+1. Clone the repo:gh repo clone Ashimahabibullah/CODSOFT
 
