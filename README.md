@@ -23,3 +23,36 @@ This is a simple online quiz application built using **HTML**, **CSS**, and **Ja
 ##How to Run
 1. Clone the repo:gh repo clone Ashimahabibullah/CODSOFT
 
+3.Calculator 
+
+This is a simple and responsive **Calculator** built using **HTML, CSS, and JavaScript**.  
+It allows users to perform basic arithmetic operations quickly and efficiently.
+
+## 🚀 Features
+- ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
+- ⚡ Instant calculation on button click
+- 🎨 Clean and user-friendly UI
+- 📱 Responsive design for mobile and desktop
+
+## 🛠️ Technologies Used
+- HTML5 – Structure of the calculator
+- CSS3 – Styling and layout
+- JavaScript – Logic and interactivity
+
+
+4.Simple Portfolio 
+
+This is a **simple personal portfolio website** created using **HTML** and **CSS** as part of my CodSoft internship.  
+It serves as a basic introduction to who I am and showcases my work.
+
+## 🚀 Features
+- 🏠 Home section with my name and introduction
+- 📂 Projects section highlighting my work
+- 📞 Contact details
+- 📱 Responsive and clean design
+
+## 🛠️ Technologies Used
+- HTML5 – Page structure
+- CSS3 – Styling and layout
+
+
